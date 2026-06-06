@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MoltenVK",
-            url: "https://github.com/SPMForge/MoltenVK/releases/download/1.4.1-alpha.1/MoltenVK-1.4.1-alpha.1.xcframework.zip",
-            checksum: "469e0a7e2496d653a526f0b4ce2aaeb37ab22ff3e4f19e65fbdde5aa5a2d7d03"
+            url: "https://github.com/SPMForge/MoltenVK/releases/download/1.4.1-alpha.45/MoltenVK-1.4.1-alpha.45.xcframework.zip",
+            checksum: "f9feb6132d9e7f18553afa570eb31cdaad4b9047dba2f7eeb606f0cbccda9c96"
         ),
     ]
 )
